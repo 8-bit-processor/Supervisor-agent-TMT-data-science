@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+kaggle
+joblib
+matplotlib
+seaborn
+tabulate
+pytest
